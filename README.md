@@ -1,6 +1,6 @@
 # Javascript-Pig-Game
 
-*****Rules of the pig gamne*****
+*****Rules of the pig game*****
 
 1. There is two player,playing in rounds.
 
